@@ -1,0 +1,19 @@
+[Spam protection]
+
+#    Set to true disables spam protection.
+disable_spam_protection (Disable spam protection) bool false
+
+#   Maximum messages that are allowed to send per time.
+max_masages_per_time (Maximum messages per time) int 5
+
+#    Time for maximum messages in seconds.
+time_for_max_masages (Time for maximum messages) int 30
+
+#    Number of allowed repetitions per message.
+max_repeat_massages (Allowed repetitions) int 3
+
+#   The time how long the player is muted in seconds.
+mute_time (Mute time) int 120
+
+#   Warnings before muting the player.
+mute_warnings (Mute warnings) int 2
